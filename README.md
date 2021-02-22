@@ -3,7 +3,7 @@ A Space Invaders mockup, created with MonoGame\XNA framework as a part of an int
 
 # Screenshot
 
-![SpaceInvaders](/SpaceInvaders.jpg?raw=true "Title")
+![SpaceInvaders](/SpaceInvaders.png?raw=true "Title")
 
 # This project showcases:
 
